@@ -2,8 +2,5 @@ THIS CODE COVERS: Adaptive algorithms with an automatic gain control feature (Th
 
 PAPER : https://ieeexplore.ieee.org/document/1709
 
-<img src="https://github.com/spetca/Signal-Processing/blob/master/MATLAB/Automatic%20Gain%20Control/imgs/img1.png?sanitize=true&raw=true" />
+<img src="https://github.com/spetca/Signal-Processing/blob/master/MATLAB/Carrier%20Frequency%20Offset%20Correction//imgs/img1.png?sanitize=true&raw=true" />
 
-<img src="https://github.com/spetca/Signal-Processing/blob/master/MATLAB/Automatic%20Gain%20Control/imgs/img2.png?sanitize=true&raw=true" />
-
-<img src="https://github.com/spetca/Signal-Processing/blob/master/MATLAB/Automatic%20Gain%20Control/imgs/img3.png?sanitize=true&raw=true" />
